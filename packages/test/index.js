@@ -1,2 +1,3 @@
-import warn from "@mote/test-share"
-warn()
+export default function() {
+  console.log('test');
+}

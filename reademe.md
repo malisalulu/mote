@@ -57,3 +57,14 @@ pnpm changeset init
 ```
 ![alt text](image.png)
 
+9.预发布版本
+```bash
+pnpm changeset pre enter test
+pnpm changeset pre exit  
+```
+10.发布版本
+```bash
+pnpm changeset
+pnpm changeset version
+pnpm changeset publish
+```
